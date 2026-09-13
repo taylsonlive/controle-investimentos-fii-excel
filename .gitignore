@@ -1,0 +1,9 @@
+# Publicar apenas a planilha, as imagens e as instruções de uso.
+/*
+!/.gitignore
+!/README.md
+!/planilha/
+!/images/
+
+# Arquivos temporários do Excel
+~$*.xlsx
